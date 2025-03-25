@@ -11,7 +11,11 @@ Somos un equipo blablabla
 - [Referencias](#referencias)
 
 ## ¿Quiénes somos?
-
+Somos los integrantes del grupo 7 conformados por:
+JAUREGUI BENDEZU, FRANK KEVIN
+SUASNABAR PANEZ, JHONATAN JUAN
+ZUÑIGA VASQUEZ, ANTONY GEAMPIER
+ROBLEDO CERNA, NATHALIA SILVANA
 ## Misión
 
 ## Visión
