@@ -74,11 +74,11 @@ A continuación, se brindará algunas características de cada integrante del gr
 
 **Carrera:** Ingeniería Informática
 
-**Edad:** 19 años  
+**Edad:** 20 años  
 
 **Descripción:** 
 
-Estudiante de Ingeniería Informática con interés en el desarrollo de aplicaciones y diseño UI/UX. Le motiva crear soluciones tecnológicas innovadoras que tengan un impacto positivo en la sociedad. Ha participado en diversos proyectos colaborativos que le han permitido fortalecer sus habilidades de liderazgo y trabajo en equipo. En su tiempo libre, disfruta de la programación, la música y explorar nuevas tecnologías.
+Soy estudiante de Ingeniería Informática y, a lo largo de mi formación, he descubierto que me interesa especialmente el área de hosting, especialmente todo lo relacionado con la nube. Además, me apasiona liderar proyectos y gestionar equipos. Actualmente, mi objetivo es aprender sobre el mundo de los negocios, comprender cómo funciona el mercado y, de esta manera, poder ofrecer una atención de mayor calidad a mis clientes.
 
 **Cargo a Desempeñar:**
 
