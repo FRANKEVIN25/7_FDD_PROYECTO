@@ -157,14 +157,6 @@ Estudiante de Ingeniería Ambiental con interés en sostenibilidad y gestión de
 
 # 📑 Referencias
 
-- Brown, T. (2019). *Change by Design: How Design Thinking Transforms Organizations and Inspires Innovation*. Harper Business.
-- Norman, D. (2013). *The Design of Everyday Things*. Basic Books.
-- United Nations. (2015). *Transforming our world: The 2030 Agenda for Sustainable Development*.
-- Organización de las Naciones Unidas. (2023). *Objetivos de Desarrollo Sostenible*. https://www.un.org/sustainabledevelopment/es/
-- Knapp, J., Zeratsky, J., & Kowitz, B. (2016). *Sprint: How to Solve Big Problems and Test New Ideas in Just Five Days*. Simon & Schuster.
-
----
-
 <div align="center">
   <p>© 2025 Grupo 7 - Fundamentos de Diseño</p>
   <p>
