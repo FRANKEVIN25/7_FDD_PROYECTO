@@ -118,7 +118,7 @@ Estudiante de Ingeniería Informática con enfoque en análisis de datos y desar
 
 **Descripción:** 
 
-Estudiante de Ingeniería Informática especializado en desarrollo web y programación. Apasionado por crear soluciones digitales eficientes y accesibles. Su interés se centra en las tecnologías front-end y back-end para aplicaciones web modernas. En su tiempo libre, disfruta de la programación, jugar fútbol y explorar nuevas herramientas de desarrollo.
+Estudiante de Ingeniería Informática apacionado por la programación y el desarrollo de softwares y hardwars, tambien interesado en la investigación de problemas para poder solucionar la conflictivba del problema. Destacado por el entendimiento rápido del problema y buscar la solución inmediata con parámetros informáticos.
 
 **Cargo a Desempeñar:**
 
