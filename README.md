@@ -134,7 +134,7 @@ Estudiante de Ingeniería Informática especializado en desarrollo web y program
 
 **Carrera:** Ingeniería Ambiental
 
-**Edad:** 20 años  
+**Edad:** 19 años  
 
 **Descripción:** 
 
