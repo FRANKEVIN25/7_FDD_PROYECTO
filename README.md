@@ -10,6 +10,7 @@
 
 ## 📋 Tabla de Contenido
 - [🌟 ¿Quiénes Somos?](#-quiénes-somos)
+- [👥 Acerca de nosotros](#-acerca-de-nosotros)
 - [🚀 Misión](#-misión)
 - [🔭 Visión](#-visión)
 - [🌍 Objetivos de Desarrollo Sostenible](#-objetivos-de-desarrollo-sostenible)
@@ -18,18 +19,48 @@
 
 <br>
 
-## 🌟 ¿Quiénes Somos?
+## 👥 Acerca de nosotros
+A continuación, se brindará algunas características de cada integrante del grupo.
 
-Somos un equipo de estudiantes de la Universidad Peruana Cayetano Heredia, pertenecientes a la Facultad de Ciencias e Ingeniería, unidos por el interés en generar un impacto positivo en la sociedad y el medio ambiente. Creemos que el análisis, la tecnología y la innovación son herramientas clave para promover un modelo de producción y consumo más sostenible en el Perú.
+**JAUREGUI BENDEZU, Frank Kevin - (📧 frank.jauregui@upch.pe)**
+**Carrera:** Ingeniería Informática
+**Edad:** 19 años
+**Descripción:**
+Estudiante de Ingeniería Informática con interés en el desarrollo de aplicaciones y diseño UI/UX. Le motiva crear soluciones tecnológicas innovadoras que tengan un impacto positivo en la sociedad. Ha participado en diversos proyectos colaborativos que le han permitido fortalecer sus habilidades de liderazgo y trabajo en equipo. En su tiempo libre, disfruta de la programación, la música y explorar nuevas tecnologías.
+**Cargo a Desempeñar:**
+📌 "*Coordinador General*": Encargado de la organización y supervisión del proyecto, asegurando el trabajo coordinado entre todas las áreas. Facilita la comunicación, apoya en la resolución de problemas y fomenta un ambiente colaborativo para alcanzar los objetivos planteados.
+**Imágen Referencial:**
+[]
 
-### Integrantes del Grupo 7:
+**SUASNABAR PANEZ, Jhonatan Juan - (📧 jhonatan.suasnabar@upch.pe)**
+**Carrera:** Ingeniería Informática
+**Edad:** 20 años
+**Descripción:**
+Estudiante de Ingeniería Informática con enfoque en análisis de datos y desarrollo de software. Interesado en la implementación de soluciones tecnológicas para problemas ambientales y sociales. Destaca por su capacidad analítica y su compromiso con proyectos de impacto positivo. En su tiempo libre disfruta de la lectura, los videojuegos y aprender nuevas tecnologías.
+**Cargo a Desempeñar:**
+📌 "*Coordinador de Investigación y Gestión del Proyecto*": Responsable de la investigación necesaria para el desarrollo del proyecto, así como de la gestión del equipo en las actividades requeridas.
+**Imágen Referencial:**
+[]
 
-| Nombre | Rol | Especialidad |
-|--------|-----|--------------|
-| JAUREGUI BENDEZU, Frank Kevin | Coordinador General | Diseño y Gestión de Proyectos |
-| SUASNABAR PANEZ, Jhonatan Juan | Coordinador de Investigación | Investigación y Desarrollo |
-| ZUÑIGA VASQUEZ, Antony Geampier | Coordinador de Programación | Desarrollo Web y Software |
-| ROBLEDO CERNA, Nathalia Silvana | Coordinadora de Diseño | Diseño y Prototipado |
+**ZUÑIGA VASQUEZ, Antony Geampier - (📧 antony.zuniga@upch.pe)**
+**Carrera:** Ingeniería Informática
+**Edad:** 21 años
+**Descripción:**
+Estudiante de Ingeniería Informática especializado en desarrollo web y programación. Apasionado por crear soluciones digitales eficientes y accesibles. Su interés se centra en las tecnologías front-end y back-end para aplicaciones web modernas. En su tiempo libre, disfruta de la programación, jugar fútbol y explorar nuevas herramientas de desarrollo.
+**Cargo a Desempeñar:**
+📌 "*Coordinador de Programación y Página Web*": Encargado de diseñar e implementar las soluciones tecnológicas requeridas para este proyecto.
+**Imágen Referencial:**
+[]
+
+**ROBLEDO CERNA, Nathalia Silvana - (📧 nathalia.robledo@upch.pe)**
+**Carrera:** Ingeniería Informática
+**Edad:** 20 años
+**Descripción:**
+Estudiante de Ingeniería Informática con interés en el diseño de experiencia de usuario y desarrollo de interfaces. Combina creatividad y habilidades técnicas para crear soluciones centradas en el usuario. Se caracteriza por su pensamiento innovador y atención al detalle. En su tiempo libre, disfruta del diseño gráfico, la fotografía y participar en proyectos creativos.
+**Cargo a Desempeñar:**
+📌 "*Coordinadora de Diseño y Prototipado*": Encargada de la elaboración de los mapas de construcción para el desarrollo de prototipos, asegurando su correcta planificación y funcionalidad.
+**Imágen Referencial:**
+[]
 
 <br>
 
