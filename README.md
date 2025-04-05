@@ -13,7 +13,8 @@
 - [🎯 Objetivo del Archivo](#-objetivo-del-archivo)
 - [🌟 ¿Quiénes Somos?](#-quiénes-somos)
 - [🏆 Nuestra Misión](#-nuestra-misión)
-- [🚀 Nuestra Visión](#-nuestra-visión)
+- [🚀 Nuestra Visión](#-nuestra-visión)}
+- [   Nuestra problematica(#-nuestra-vision)}
 - [🌍 Objetivos de Desarrollo Sostenible](#-objetivos-de-desarrollo-sostenible)
 - [📊 Metodología](#-metodología)
 - [🙌 Acerca de Nosotros](#-acerca-de-nosotros)
