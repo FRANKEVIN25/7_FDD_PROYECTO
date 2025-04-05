@@ -52,7 +52,7 @@ Aspiramos a un futuro donde:
 
 # 🌐 Nuestra Problemática
 
-[Espacio reservado para agregar tus párrafos de problemática]
+El monitoreo actual del río Rímac se basa principalmente en la medición de parámetros fisicoquímicos a través del Índice de Calidad del Agua (ICA). Sin embargo, este enfoque carece de especificidad para rastrear las fuentes de contaminación y detectar contaminantes emergentes no cubiertos por los parámetros tradicionales. Según Zolkefli et al. (2020), es necesario integrar técnicas avanzadas como espectrometría, secuenciación de alto rendimiento, citometría de flujo y análisis de expresión génica funcional para una evaluación más completa de la salud del río. Estos enfoques permitirían un mejor rastreo de las fuentes contaminantes y una evaluación más robusta del impacto de la contaminación en el ecosistema del río Rímac.
 
 # 🌍 Objetivos de Desarrollo Sostenible
 
