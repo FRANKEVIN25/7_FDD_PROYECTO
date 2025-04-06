@@ -52,7 +52,15 @@ Aspiramos a un futuro donde:
 
 # 🌐 Nuestra Problemática
 
-El monitoreo actual del río Rímac se basa principalmente en la medición de parámetros fisicoquímicos a través del Índice de Calidad del Agua (ICA). Sin embargo, este enfoque carece de especificidad para rastrear las fuentes de contaminación y detectar contaminantes emergentes no cubiertos por los parámetros tradicionales. Según Zolkefli et al. (2020), es necesario integrar técnicas avanzadas como espectrometría, secuenciación de alto rendimiento, citometría de flujo y análisis de expresión génica funcional para una evaluación más completa de la salud del río. Estos enfoques permitirían un mejor rastreo de las fuentes contaminantes y una evaluación más robusta del impacto de la contaminación en el ecosistema del río Rímac.
+La acidificación oceánica es una problemática ambiental que afecta diversas zonas costeras, incluyendo el litoral de Lima. Sin embargo, la información específica sobre los niveles de pH en playas particulares de Lima es limitada debido a la falta de monitoreo detallado en estas áreas. Según la Dirección General de Salud Ambiental (Digesa), más del 70% de las playas de Lima y Callao no cumplen con los estándares de calidad necesarios para garantizar la seguridad de los bañistas, lo que indica una alta contaminación en estas zonas. ​
+infobae
++2
+Perú 21
++2
+EDUCACIONENRED.PE
++2
+
+A pesar de la gravedad de la situación, el monitoreo de parámetros como el pH y la alcalinidad en las playas de Lima es insuficiente. El Instituto del Mar del Perú (IMARPE) ha iniciado mediciones del sistema de carbonatos, incluyendo el pH, frente al Callao desde enero de 2023, contribuyendo al reporte del indicador 14.3.1 de los Objetivos de Desarrollo Sostenible (ODS). Sin embargo, estas acciones aún no se han extendido de manera uniforme a otras playas de Lima, lo que impide una comprensión completa de la magnitud de la acidificación en toda la región. La falta de datos específicos dificulta la implementación de estrategias de mitigación y adaptación efectivas, dejando a los ecosistemas marinos y a las comunidades que dependen de ellos en una situación vulnerable.
 
 # 🌍 Objetivos de Desarrollo Sostenible
 
