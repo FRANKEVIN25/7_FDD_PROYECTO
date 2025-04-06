@@ -52,15 +52,19 @@ Aspiramos a un futuro donde:
 
 # 🌐 Nuestra Problemática
 
-La acidificación oceánica es una problemática ambiental que afecta diversas zonas costeras, incluyendo el litoral de Lima. Sin embargo, la información específica sobre los niveles de pH en playas particulares de Lima es limitada debido a la falta de monitoreo detallado en estas áreas. Según la Dirección General de Salud Ambiental (Digesa), más del 70% de las playas de Lima y Callao no cumplen con los estándares de calidad necesarios para garantizar la seguridad de los bañistas, lo que indica una alta contaminación en estas zonas. ​
-infobae
-+2
-Perú 21
-+2
-EDUCACIONENRED.PE
-+2
+La acidificación oceánica es uno de los efectos más preocupantes del cambio climático global y representa una amenaza directa para la biodiversidad marina y la estabilidad de los ecosistemas costeros. Según Rosales et al. (2022), la creciente concentración de dióxido de carbono (CO₂) atmosférico, derivada principalmente de actividades humanas como la quema de combustibles fósiles, no solo contribuye al calentamiento global, sino también a la alteración de la química marina. Este fenómeno reduce el pH del agua de mar, dificultando la supervivencia de organismos calcificadores como moluscos, corales y fitoplancton, que cumplen funciones ecológicas esenciales y generando una alteración en algunas cadenas tróficas. De hecho, se estima que hacia 2050 el Perú enfrentará serios desafíos en términos de pérdida de biodiversidad marina si no se implementan políticas de conservación y mitigación eficaces (1).
 
-A pesar de la gravedad de la situación, el monitoreo de parámetros como el pH y la alcalinidad en las playas de Lima es insuficiente. El Instituto del Mar del Perú (IMARPE) ha iniciado mediciones del sistema de carbonatos, incluyendo el pH, frente al Callao desde enero de 2023, contribuyendo al reporte del indicador 14.3.1 de los Objetivos de Desarrollo Sostenible (ODS). Sin embargo, estas acciones aún no se han extendido de manera uniforme a otras playas de Lima, lo que impide una comprensión completa de la magnitud de la acidificación en toda la región. La falta de datos específicos dificulta la implementación de estrategias de mitigación y adaptación efectivas, dejando a los ecosistemas marinos y a las comunidades que dependen de ellos en una situación vulnerable.
+
+En este contexto global, el litoral de Lima y Callao no es ajeno a esta problemática. A pesar de su importancia ecológica y económica, la información específica sobre los niveles de acidificación en playas urbanas de esta región es limitada. Según el portal de la Universidad Autónoma de Nuevo León (2021), la vulnerabilidad costera aumenta cuando se combinan factores como contaminación local, urbanización desordenada y falta de gobernanza ambiental, lo cual es particularmente notorio en áreas metropolitanas como Lima. En un informe reciente del Ministerio de Salud (2025), se indica que más del 70 % de las playas de Lima y Callao no cumplen con los estándares de calidad ambiental, señalando una contaminación generalizada que podría estar asociada, entre otras cosas, a procesos de acidificación en curso. (2)
+
+
+A pesar de la gravedad de la situación, el monitoreo de variables clave como el pH y la alcalinidad en estas zonas es aún incipiente. El Instituto del Mar del Perú (IMARPE) inició en enero de 2023 la medición de parámetros del sistema de carbonatos frente al Callao, como parte de su contribución al indicador 14.3.1 de los Objetivos de Desarrollo Sostenible (ODS), el cual evalúa la acidificación oceánica. No obstante, este esfuerzo se ha concentrado principalmente en el litoral del Callao, y no se ha extendido de manera sistemática a otras playas de Lima Metropolitana, como Agua Dulce, San Miguel o Ancón, donde también podrían estar ocurriendo cambios químicos importantes. Esta falta de cobertura dificulta obtener una visión integral del impacto que la acidificación está teniendo en la región, y limita la capacidad del Estado para diseñar estrategias de adaptación y conservación que protejan tanto a la biodiversidad marina como a las comunidades humanas que dependen de ella (3).
+
+
+BIBLIOGRAFÍA:
+1.	 [citado 6 de abril de 2025]. Disponible en: https://www.researchgate.net/profile/Marina-Rosales/publication/358657852_Ambiente_y_sociedad_los_desafios_de_la_biodiversidad_en_el_mundo_y_en_el_Peru_al_2050/links/620dc9e76c472329dceda7e4/Ambiente-y-sociedad-los-desafios-de-la-biodiversidad-en-el-mundo-y-en-el-Peru-al-2050.pdf#page=81
+2.	Pedroso FA. Más del 70% de las playas de Lima y Callao no son aptas para los bañistas este verano 2025 [Internet]. 2025 [citado 6 de abril de 2025]. Disponible en: https://larepublica.pe/sociedad/2025/01/13/minsa-mas-del-70-de-las-playas-de-lima-y-callao-no-son-aptas-para-los-banistas-este-verano-2025-playas-de-lima-verano-2025-digesa-hnews-718008
+3.	Perú reporta de manera sostenida el indicador 14.3.1 del ODS 14 sobre acidificación oceánica que contribuye con la agenda 2030 de los océanos – REMARCO [Internet]. 2024 [citado 6 de abril de 2025]. Disponible en: https://remarco.org/blog/2024/01/11/peru-reporta-de-manera-sostenida-el-indicador-14-3-1-del-ods-14-sobre-acidificacion-oceanica-que-contribuye-con-la-agenda-2030-de-los-oceanos/
 
 # 🌍 Objetivos de Desarrollo Sostenible
 
