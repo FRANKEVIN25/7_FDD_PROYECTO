@@ -8,9 +8,9 @@ La acidificación de los océanos es una consecuencia directa del aumento de di�
 <p align="center">
   Imagen 01:
 <p align="center">
-  <img src="../imagenes/mar.jpg" width="600" style="margin: auto;">
+  <img src="../imagenes/imamar.jpg" width="600" style="margin: auto;">
  <p align="center">
-  Fuente :SERFOR 2023
+  Fuente : PUCP
 </p>
 
 
