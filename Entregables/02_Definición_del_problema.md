@@ -6,8 +6,6 @@
 La acidificación de los océanos es una consecuencia directa del aumento de dióxido de carbono (CO₂) en la atmósfera, generado principalmente por la quema de combustibles fósiles y la deforestación. Los océanos han actuado como un amortiguador natural, absorbiendo aproximadamente el 30% de estas emisiones, lo que ha reducido progresivamente su pH. Desde la Revolución Industrial, el pH oceánico ha disminuido en 0.1 unidades, lo que representa un aumento del 26% en la acidez del agua. Aunque esta variación parece pequeña, su impacto en los ecosistemas marinos es profundo y progresivo, afectando la química del agua y la capacidad de los organismos marinos para sobrevivir y desarrollarse.
 
 <p align="center">
-  Imagen 01:
-<p align="center">
   <img src="../imagenes/Deficion_de_problema/mar.jpg">
  <p align="center">
   Fuente : PUCP
