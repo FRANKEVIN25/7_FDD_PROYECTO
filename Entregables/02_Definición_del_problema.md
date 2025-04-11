@@ -20,9 +20,6 @@ La acidificación de los océanos no solo afecta a los organismos calcificantes,
 
 Otra consecuencia preocupante de la acidificación es su relación con la capacidad del océano para regular el ciclo del carbono. Bajo condiciones normales, los océanos actúan como un sumidero de carbono, ayudando a reducir la cantidad de CO₂ en la atmósfera. Sin embargo, la acidificación altera este equilibrio y puede reducir la eficiencia del océano en la absorción de CO₂, lo que a su vez acelera el cambio climático. Esta retroalimentación negativa podría intensificar fenómenos como el aumento del nivel del mar, la alteración de las corrientes oceánicas y la pérdida de hábitats costeros.
 
-Además, algunas regiones del mundo ya están experimentando impactos severos debido a la acidificación de los océanos. En el noroeste del Pacífico, los criaderos de ostras han registrado una alta mortalidad de larvas debido a la reducción del pH del agua, afectando seriamente la industria marisquera local. En el Caribe, los arrecifes de coral están sufriendo tasas más altas de blanqueamiento y enfermedades, lo que compromete la biodiversidad marina y el turismo basado en la vida coralina. Estos ejemplos evidencian que la acidificación de los océanos no es un problema lejano ni abstracto, sino una crisis ambiental con efectos directos en la economía, la seguridad alimentaria y la estabilidad ecológica del planeta.
-
-
 ## 1. Impacto Social
 
 ### 1.1 A Nivel Mundial
