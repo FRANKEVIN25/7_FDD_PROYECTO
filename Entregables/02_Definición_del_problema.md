@@ -35,6 +35,7 @@ A nivel mundial, la acidificación oceánica representa una amenaza para la segu
 
 ### 1.2 A Nivel Nacional
 En el mar peruano, la acidificación oceánica representa una amenaza significativa para la acuicultura y la pesca artesanal e industrial. Se espera que en las próximas dos o tres décadas cause pérdidas importantes en la productividad de organismos calcificantes, especialmente aquellos que sostienen la acuicultura. Este fenómeno podría tener consecuencias directas en la disponibilidad de empleo y el sustento económico de los pescadores y acuicultores peruanos.
+
 Específicamente, la Corriente de Humboldt, que es crucial para el ecosistema marino peruano, se verá significativamente impactada. La acidificación podría alterar la composición fisicoquímica de las aguas, afectando la biodiversidad y biomasa de los recursos hidrobiológicos. Esto no solo amenaza la seguridad alimentaria local, sino que también podría desencadenar cambios económicos y sociales profundos en las comunidades costeras que dependen de la pesca como medio de vida.
 
 ### 1.3 A Nivel Regional
