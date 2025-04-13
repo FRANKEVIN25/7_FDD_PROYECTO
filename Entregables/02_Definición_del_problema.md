@@ -21,7 +21,9 @@ Otra consecuencia preocupante de la acidificación es su relación con la capaci
 ## 1. Impacto Social
 
 ### 1.1 A Nivel Mundial
-*[Espacio para agregar texto después de investigar]*
+
+La acidificación oceánica representa una amenaza crítica global con profundas implicaciones sociales y económicas, particularmente para las comunidades que dependen directamente de los ecosistemas marinos. Desde finales de los años 80, el 95% de las aguas superficiales oceánicas han incrementado su acidez, absorbiendo aproximadamente una cuarta parte del dióxido de carbono atmosférico anual, lo que está generando transformaciones fundamentales en los océanos. Este fenómeno compromete directamente los medios de subsistencia de millones de personas, especialmente comunidades pesqueras, poblaciones costeras y sociedades en desarrollo que basan su economía en los recursos marinos, amenazando la seguridad alimentaria, los sistemas productivos y la estabilidad socioeconómica de regiones enteras.
+A nivel internacional, la comunidad científica y organizaciones como el Centro Internacional de Coordinación sobre Acidificación de los Océanos (OA-ICC) están desarrollando estrategias globales para comprender y mitigar los impactos de este fenómeno, reconociendo su potencial devastador. La Red Mundial de Observación de Acidificación, integrada por 750 científicos de 100 países, busca mejorar el monitoreo en zonas críticas como las costas africanas y el océano Índico, desarrollar métodos simplificados para medir la calidad del agua y la alcalinidad. Este esfuerzo colectivo no solo pretende generar conocimiento científico, sino también crear conciencia sobre cómo la acidificación oceánica puede alterar ecosistemas, modificar cadenas alimentarias y generar desplazamientos poblacionales, constituyéndose en un problema social de primer orden que requiere una respuesta coordinada a escala mundial.
 
 ### 1.2 A Nivel Regional
 *[Espacio para agregar texto después de investigar]*
