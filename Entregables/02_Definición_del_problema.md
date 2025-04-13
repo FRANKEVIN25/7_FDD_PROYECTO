@@ -22,7 +22,7 @@ Otra consecuencia preocupante de la acidificación es su relación con la capaci
 
 ### 1.1 A Nivel Mundial
 
-La acidificación del océano tiene graves consecuencias sociales globales, especialmente para las comunidades que dependen directamente de los recursos marinos. En regiones como Asia Sudoriental, donde hasta entre el 70 y 90% de la pesca depende de los arrecifes de coral, la creciente acidez está provocando un mayor índice de disolución de esqueletos coralinos y debilitando el desarrollo de las conchas de los moluscos. Este fenómeno amenaza directamente los medios de subsistencia de millones de personas que encuentran en el mar su principal fuente de alimento e ingresos.
+La acidificación oceánica representa una amenaza significativa para Perú, especialmente en la Corriente de Humboldt, donde se esperan manifestaciones importantes en las próximas dos o tres décadas. Este fenómeno podría tener consecuencias críticas para la acuicultura y la pesca, sectores económicos fundamentales para el país.
 
 <p align="center">
   Gráfica 1
@@ -31,7 +31,8 @@ La acidificación del océano tiene graves consecuencias sociales globales, espe
   Fuente : PNUMA
 </p>
 
-A nivel mundial, la acidificación oceánica representa una amenaza para la seguridad alimentaria y el bienestar económico de las comunidades costeras. El aumento de la acidez, causado por la absorción de dióxido de carbono, está transformando la química de los océanos, lo que compromete la capacidad de supervivencia de especies marinas fundamentales para la alimentación humana. Los cambios en los ecosistemas marinos pueden desencadenar disrupciones en las cadenas alimenticias, afectando no solo a las poblaciones locales, sino también a la economía global dependiente de la pesca y la acuicultura.
+En el contexto peruano, la acidificación oceánica amenaza directamente la productividad de organismos calcificantes que son la base de la acuicultura. Esto no solo implica un riesgo para la biodiversidad marina, sino también para el sustento económico de pescadores y acuicultores. Los cambios en la composición fisicoquímica de las aguas podrían reducir significativamente la biomasa de recursos hidrobiológicos, comprometiendo la seguridad alimentaria y los medios de vida de las comunidades costeras.
+Además, la acidificación se combina con otros fenómenos como la desoxigenación y las floraciones algales nocivas, creando un escenario de múltiples amenazas para los ecosistemas marinos peruanos. Estos cambios podrían alterar profundamente el hábitat marino, afectando especialmente a los recursos pelágicos y bentónicos que son cruciales para la economía pesquera nacional.
 
 ### 1.2 A Nivel Nacional
 En el mar peruano, la acidificación oceánica representa una amenaza significativa para la acuicultura y la pesca artesanal e industrial. Se espera que en las próximas dos o tres décadas cause pérdidas importantes en la productividad de organismos calcificantes, especialmente aquellos que sostienen la acuicultura. Este fenómeno podría tener consecuencias directas en la disponibilidad de empleo y el sustento económico de los pescadores y acuicultores peruanos.
