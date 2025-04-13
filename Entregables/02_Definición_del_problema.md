@@ -24,12 +24,18 @@ Otra consecuencia preocupante de la acidificación es su relación con la capaci
 
 La acidificación del océano tiene graves consecuencias sociales globales, especialmente para las comunidades que dependen directamente de los recursos marinos. En regiones como Asia Sudoriental, donde hasta entre el 70 y 90% de la pesca depende de los arrecifes de coral, la creciente acidez está provocando un mayor índice de disolución de esqueletos coralinos y debilitando el desarrollo de las conchas de los moluscos. Este fenómeno amenaza directamente los medios de subsistencia de millones de personas que encuentran en el mar su principal fuente de alimento e ingresos.
 
+<p align="center">
+  <img src="../imagenes/Deficion_de_problema/mar.jpg">
+ <p align="center">
+  Fuente : PUCP
+</p>
+
 A nivel mundial, la acidificación oceánica representa una amenaza para la seguridad alimentaria y el bienestar económico de las comunidades costeras. El aumento de la acidez, causado por la absorción de dióxido de carbono, está transformando la química de los océanos, lo que compromete la capacidad de supervivencia de especies marinas fundamentales para la alimentación humana. Los cambios en los ecosistemas marinos pueden desencadenar disrupciones en las cadenas alimenticias, afectando no solo a las poblaciones locales, sino también a la economía global dependiente de la pesca y la acuicultura.
 
-### 1.2 A Nivel Regional
+### 1.2 A Nivel Nacional
 *[Espacio para agregar texto después de investigar]*
 
-### 1.3 A Nivel Nacional
+### 1.3 A Nivel Regional
 *[Espacio para agregar texto después de investigar]*
 
 ## 2. Contexto Económico
