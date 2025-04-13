@@ -27,7 +27,7 @@ La acidificación del océano tiene graves consecuencias sociales globales, espe
 <p align="center">
   <img src="../imagenes/Deficion_de_problema/GRAFICA.png">
  <p align="center">
-  Fuente : PUCP
+  Fuente : PNUMA
 </p>
 
 A nivel mundial, la acidificación oceánica representa una amenaza para la seguridad alimentaria y el bienestar económico de las comunidades costeras. El aumento de la acidez, causado por la absorción de dióxido de carbono, está transformando la química de los océanos, lo que compromete la capacidad de supervivencia de especies marinas fundamentales para la alimentación humana. Los cambios en los ecosistemas marinos pueden desencadenar disrupciones en las cadenas alimenticias, afectando no solo a las poblaciones locales, sino también a la economía global dependiente de la pesca y la acuicultura.
