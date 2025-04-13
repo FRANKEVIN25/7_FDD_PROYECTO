@@ -34,7 +34,8 @@ La acidificación del océano tiene graves consecuencias sociales globales, espe
 A nivel mundial, la acidificación oceánica representa una amenaza para la seguridad alimentaria y el bienestar económico de las comunidades costeras. El aumento de la acidez, causado por la absorción de dióxido de carbono, está transformando la química de los océanos, lo que compromete la capacidad de supervivencia de especies marinas fundamentales para la alimentación humana. Los cambios en los ecosistemas marinos pueden desencadenar disrupciones en las cadenas alimenticias, afectando no solo a las poblaciones locales, sino también a la economía global dependiente de la pesca y la acuicultura.
 
 ### 1.2 A Nivel Nacional
-*[Espacio para agregar texto después de investigar]*
+En el mar peruano, la acidificación oceánica representa una amenaza significativa para la acuicultura y la pesca artesanal e industrial. Se espera que en las próximas dos o tres décadas cause pérdidas importantes en la productividad de organismos calcificantes, especialmente aquellos que sostienen la acuicultura. Este fenómeno podría tener consecuencias directas en la disponibilidad de empleo y el sustento económico de los pescadores y acuicultores peruanos.
+Específicamente, la Corriente de Humboldt, que es crucial para el ecosistema marino peruano, se verá significativamente impactada. La acidificación podría alterar la composición fisicoquímica de las aguas, afectando la biodiversidad y biomasa de los recursos hidrobiológicos. Esto no solo amenaza la seguridad alimentaria local, sino que también podría desencadenar cambios económicos y sociales profundos en las comunidades costeras que dependen de la pesca como medio de vida.
 
 ### 1.3 A Nivel Regional
 *[Espacio para agregar texto después de investigar]*
