@@ -24,6 +24,14 @@ Otra consecuencia preocupante de la acidificación es su relación con la capaci
 
 La acidificación oceánica representa una amenaza crítica para millones de personas en todo el mundo, especialmente para las comunidades que dependen directamente de los recursos marinos. En Asia Sudoriental, la situación es particularmente alarmante, donde entre el 70% y 90% de la pesca depende de los arrecifes de coral. A medida que los océanos absorben más dióxido de carbono, se vuelven más ácidos, causando la disolución de los esqueletos y conchas de organismos marinos, lo que debilita fundamentalmente estos ecosistemas vitales.
 Este fenómeno tiene consecuencias devastadoras para la seguridad alimentaria global. Los moluscos, cruciales para la cadena alimentaria marina, están particularmente en riesgo. La creciente acidez dificulta la formación de sus conchas, reduciendo dramáticamente sus poblaciones. Para las comunidades costeras que dependen de la pesca como fuente principal de proteínas y medio de subsistencia, esto significa una amenaza existencial directa a su forma de vida tradicional y su economía local.
+
+<p align="center">
+  <img src="../imagenes/Deficion_de_problema/GRAFICA.png">
+ <p align="center">
+  Fuente : PUCP
+</p>
+
+
 Las regiones polares son especialmente vulnerables, con el Océano Ártico experimentando cambios más rápidos y severos en su química oceánica. Estas áreas, que ya tienen aguas naturalmente ricas en CO2, están sufriendo transformaciones que amenazan los frágiles ecosistemas y las comunidades indígenas que han dependido históricamente de estos recursos marinos para su supervivencia.
 El impacto se extiende más allá de la pesca. Los pequeños estados insulares están especialmente en riesgo, ya que la degradación de los arrecifes de coral compromete no solo su economía pesquera, sino también su protección natural contra tormentas y la elevación del nivel del mar. Esto puede llevar a desplazamientos poblacionales, pérdida de territorios y disrupciones sociales masivas.
 La dimensión económica del problema es igualmente preocupante. La acuicultura, el turismo marino y otras industrias relacionadas con los océanos se verán severamente afectadas. Las comunidades costeras podrían experimentar una reducción significativa de ingresos, lo que provocaría migration, desempleo y posibles conflictos por recursos cada vez más escasos.
