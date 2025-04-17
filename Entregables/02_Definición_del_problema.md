@@ -64,38 +64,13 @@ De acuerdo con la normativa peruana vigente, específicamente el Decreto Supremo
 
 En cuanto a los valores específicos de pH, se considera adecuado un rango de 7.0 a 8.5 para la categoría C1, mientras que para la C2 se permite un rango un poco más amplio, de 6.8 a 8.5. Estas referencias se basan en los resultados de monitoreos ambientales realizados en zonas de producción acuícola a lo largo del litoral peruano, y son fundamentales para garantizar el bienestar de las especies cultivadas, así como para prevenir impactos negativos sobre el ecosistema marino costero.
 
-<!DOCTYPE html>
-<html lang="es">
-<head>
-    <meta charset="UTF-8">
-    <title>Tabla 1: Emisiones GEI por categoría – D.T. Norte</title>
-    <style>
-        .table-container {
-            text-align: center;
-            margin: 20px auto;
-            max-width: 800px;
-        }
-        .table-image {
-            max-width: 100%;
-            height: auto;
-            display: block;
-            margin: 0 auto;
-        }
-        .table-caption {
-            margin-top: 10px;
-            font-style: italic;
-            color: #666;
-        }
-    </style>
-</head>
-<body>
-    <div class="table-container">
-        <h2>Tabla 1: Emisiones GEI por categoría – D.T. Norte</h2>
-        <img src="../imagenes/Deficion_de_problema/tabla.jpg" alt="Tabla de Emisiones GEI" class="table-image">
-        <p class="table-caption">Fuente: Elaboración propia, Alva 2024</p>
-    </div>
-</body>
-</html>
+
+<p align="center"><strong>Gráfica 2</strong></p>
+<p align="center">
+  <img src="../imagenes/Deficion_de_problema/tabla.jpg" alt="Tabla LEAP Piura" width="500">
+</p>
+<p align="center"><em>Fuente: Fuente: Elaboración propia, Alva 2024.</em></p>
+
 
 
 
