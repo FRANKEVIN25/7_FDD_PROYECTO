@@ -54,9 +54,10 @@ En la ciudad de Piura, la principal fuente de emisión de dióxido de carbono (C
 
 <p align="center">
   Grafica 1
-  <img src="../imagenes/Deficion_de_problema/GRAFICA.png">
+  <img src="../imagenes/Deficion_de_problema/co2eq.jpg">
  <p align="center">
-  Fuente : PNUMA
+  Fuente : Estimación propia basada en el modelo energético LEAP de la ciudad 
+de Piura. 
 </p>
 
 De acuerdo con la normativa peruana vigente, específicamente el Decreto Supremo N.º 004-2017-MINAM, que establece los Estándares de Calidad Ambiental (ECA) para agua, y el Decreto Supremo N.º 010-2008-PRODUCE, que regula los Límites Máximos Permisibles (LMP) para efluentes provenientes de actividades acuícolas, se establece que el rango adecuado de pH en ambientes marino costeros debe mantenerse entre 7.0 y 8.5. En ese marco, se reconocen cuatro categorías principales según el tipo de uso de estas aguas: la Categoría C1, que corresponde a la extracción y cultivo de moluscos, equinodermos y tunicados; la Categoría C2, destinada a la extracción y cultivo de otras especies hidrobiológicas; la Categoría C3, que incluye actividades marino portuarias, industriales o de saneamiento; y la Categoría C4, referida a la extracción y cultivo de especies hidrobiológicas en ambientes continentales, como lagos o lagunas.
