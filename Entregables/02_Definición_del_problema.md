@@ -52,13 +52,11 @@ La contaminación adicional proveniente de residuos industriales y domésticos a
 ### 1.3 A Nivel Regional
 En la ciudad de Piura, la principal fuente de emisión de dióxido de carbono (CO₂) proviene del uso de combustibles fósiles, especialmente del transporte vehicular y de la generación eléctrica mediante gas natural. Se estima que durante las horas punta en avenidas de alto tráfico, contribuyen a una emisión diaria aproximada de 15 toneladas de CO₂ solo por transporte urbano (MGI City Lab Piura, 2022). A nivel general, las proyecciones señalan un preocupante aumento de las emisiones, pasando de 2,000 ktCO₂eq en 2018 a más de 12,000 ktCO₂eq en 2040, lo que implica un crecimiento de 2.8 a 15 toneladas de CO₂ per cápita (MGI City Lab Piura, 2022). Además, se ha calculado que el 69.52% de la huella de carbono institucional en la región norte proviene del consumo de energía importada, evidenciando la gran dependencia de fuentes no renovables (ISA REP, 2023). Estos datos demuestran que Piura ya enfrenta una situación significativa de contaminación por CO₂, con un panorama ambiental que, de no mitigarse, podría agravarse considerablemente en las próximas décadas.
 
+<p align="center"><strong>Gráfica 2</strong></p>
 <p align="center">
-     Grafica 2
-  <img src="../imagenes/Deficion_de_problema/co2eq.jpg">
- <p align="center">
-  Fuente : Estimación propia basada en el modelo energético LEAP de la ciudad 
-de Piura. 
+  <img src="../imagenes/Deficion_de_problema/tabla.jpg" alt="Tabla LEAP Piura" width="500">
 </p>
+<p align="center"><em>Fuente: Estimación propia basada en el modelo energético LEAP de la ciudad de Piura.</em></p>
 
 De acuerdo con la normativa peruana vigente, específicamente el Decreto Supremo N.º 004-2017-MINAM, que establece los Estándares de Calidad Ambiental (ECA) para agua, y el Decreto Supremo N.º 010-2008-PRODUCE, que regula los Límites Máximos Permisibles (LMP) para efluentes provenientes de actividades acuícolas, se establece que el rango adecuado de pH en ambientes marino costeros debe mantenerse entre 7.0 y 8.5. En ese marco, se reconocen cuatro categorías principales según el tipo de uso de estas aguas: la Categoría C1, que corresponde a la extracción y cultivo de moluscos, equinodermos y tunicados; la Categoría C2, destinada a la extracción y cultivo de otras especies hidrobiológicas; la Categoría C3, que incluye actividades marino portuarias, industriales o de saneamiento; y la Categoría C4, referida a la extracción y cultivo de especies hidrobiológicas en ambientes continentales, como lagos o lagunas.
 
