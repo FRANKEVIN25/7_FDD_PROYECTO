@@ -66,7 +66,12 @@ Aunque la acidificación oceánica ha sido abordada sobre todo desde la ciencia 
 La pesca extractiva e industrial ha sido históricamente una actividad clave, aunque su participación en el PBI nacional entre 2017 y 2021 fue relativamente modesta, con un promedio de 1.3%. Sin embargo, su impacto económico va mucho más allá de esa cifra. En 2022, el sector enfrentó una fuerte contracción: la pesca y acuicultura cayeron en 13.7%, mientras que la manufactura asociada, como conservas, productos congelados, harina y aceite de pescado, también sufrió retrocesos importantes, con caídas de 6.4% y 23.8%, respectivamente. A pesar de este escenario, las exportaciones pesqueras representaron el 7% del total nacional, alcanzando los 4,021 millones de dólares, lo que significó un ligero crecimiento respecto al año anterior. Productos emblemáticos como la harina y el aceite de pescado también mostraron aumentos, con ingresos de 1,816 y 564 millones de dólares, respectivamente. Departamentos como Piura, Lima y Áncash lideran el valor agregado bruto del sector, concentrando en conjunto el 63% de la actividad pesquera del país, una tendencia que se mantiene desde hace más de una década. La pesca industrial no solo genera empleo directo, sino que también dinamiza otras ramas de la economía: por cada sol producido, se estima un efecto de arrastre del 63% en ventas y consumo en otros sectores. En términos fiscales, la actividad generó S/ 712.6 millones en tributos solo en 2022, con un crecimiento del 60% respecto a 2021, destacando el papel de la manufactura, que aportó el 70.6% de esa recaudación. Además, el canon pesquero, que corresponde a fondos que regresan a las regiones, sumó S/ 114.9 millones, beneficiando principalmente a los gobiernos locales. Estos datos reflejan no solo la importancia económica del sector, sino también su rol estratégico para muchas regiones costeras y la necesidad urgente de protegerlo frente a desafíos como la acidificación oceánica.
 
 ## 3. Diagrama de Ishikawa - Causa y Efecto
-*[Espacio para insertar imagen]*
+
+<p align="center">
+  <img src="../imagenes/Deficion_de_problema/ishikawa.jpg">
+ <p align="center">
+  Fuente : PUCP
+</p>
 
 ## 4. Mapa de Viaje del Cliente
 *[Espacio para insertar imagen]*
