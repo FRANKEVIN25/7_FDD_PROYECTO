@@ -63,16 +63,21 @@ De acuerdo con la normativa peruana vigente, específicamente el Decreto Supremo
 En cuanto a los valores específicos de pH, se considera adecuado un rango de 7.0 a 8.5 para la categoría C1, mientras que para la C2 se permite un rango un poco más amplio, de 6.8 a 8.5. Estas referencias se basan en los resultados de monitoreos ambientales realizados en zonas de producción acuícola a lo largo del litoral peruano, y son fundamentales para garantizar el bienestar de las especies cultivadas, así como para prevenir impactos negativos sobre el ecosistema marino costero.
 
 
-<p align="center"><strong>Gráfica 2</strong></p>
+<p align="center"><strong>Tabla 1</strong></p>
 <p align="center">
   <img src="../imagenes/Deficion_de_problema/tabla.jpg" alt="Tabla LEAP Piura" width="500">
 </p>
 <p align="center"><em>Fuente: Fuente: Elaboración propia, Alva 2024.</em></p>
 
-
-
+<p align="center"><strong>Tabla 2</strong></p>
+<p align="center">
+  <img src="../imagenes/Deficion_de_problema/tabla2.jpg" alt="Tabla LEAP Piura" width="500">
+</p>
+<p align="center"><em>Fuente: Fuente: Elaboración propia, Robledo 2025.</em></p>
 
 Según el "Diagnóstico Socioeconómico y Ambiental de la Zona Marino Costera de la Provincia de Paita", elaborado por el Gobierno Regional Piura, la playa El Toril, ubicada en la bahía de Paita, es una de las más contaminadas de la región. Esta playa, donde se realiza pesca artesanal, presenta niveles de contaminación que la hacen no apta para bañistas. Aunque no se dispone de datos específicos sobre el pH del agua en esta área, la alta carga de contaminantes podría estar contribuyendo a procesos de acidificación, afectando tanto a los ecosistemas marinos como a las actividades pesqueras locales.
+
+
 
 ## 2. Contexto Económico
 
