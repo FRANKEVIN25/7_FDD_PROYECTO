@@ -26,6 +26,7 @@ La acidificación oceánica representa una amenaza crítica para millones de per
 Este fenómeno tiene consecuencias devastadoras para la seguridad alimentaria global. Los moluscos, cruciales para la cadena alimentaria marina, están particularmente en riesgo. La creciente acidez dificulta la formación de sus conchas, reduciendo dramáticamente sus poblaciones. Para las comunidades costeras que dependen de la pesca como fuente principal de proteínas y medio de subsistencia, esto significa una amenaza existencial directa a su forma de vida tradicional y su economía local.
 
 <p align="center">
+  Grafica 1
   <img src="../imagenes/Deficion_de_problema/GRAFICA.png">
  <p align="center">
   Fuente : PNUMA
