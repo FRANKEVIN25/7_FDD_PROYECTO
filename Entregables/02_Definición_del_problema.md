@@ -102,4 +102,6 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 *[Espacio para insertar imagen]*
 
 ## REFERENCIAS BIBLIOGRÁFICAS
-*[Espacio para agregar referencias]*
+1. UNESCO. (2022). Programas oceánicos de la UNESCO. Programa de las Naciones Unidas para el Medio Ambiente. https://www.unesco.org/sites/default/files/medias/fichiers/2022/06/381648spa.pdf
+2. PNUMA. (2011). Seguimiento a nuestro medio ambiente en transformación: de Río a Río+20 (1992-2012). Programa de las Naciones Unidas para el Medio Ambiente. ISBN: 978-92-807-3339-9 https://sinia.minam.gob.pe/sites/default/files/sinia/archivos/public/docs/2853.pdf
+ 
