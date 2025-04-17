@@ -54,7 +54,7 @@ En la ciudad de Piura, la principal fuente de emisión de dióxido de carbono (C
 
 <p align="center"><strong>Gráfica 2</strong></p>
 <p align="center">
-  <img src="../imagenes/Deficion_de_problema/tabla.jpg" alt="Tabla LEAP Piura" width="500">
+  <img src="../imagenes/Deficion_de_problema/co2eq.jpg" alt="Tabla LEAP Piura" width="500">
 </p>
 <p align="center"><em>Fuente: Estimación propia basada en el modelo energético LEAP de la ciudad de Piura.</em></p>
 
