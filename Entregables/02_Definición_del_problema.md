@@ -68,9 +68,9 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 ## 3. Diagrama de Ishikawa - Causa y Efecto
 
 <p align="center">
-  <img src="../imagenes/Deficion_de_problema/ishikawa.jpg">
+  <img src="../imagenes/Deficion_de_problema/ishikawa .jpg">
  <p align="center">
-  Fuente : PUCP
+  Fuente :
 </p>
 
 ## 4. Mapa de Viaje del Cliente
