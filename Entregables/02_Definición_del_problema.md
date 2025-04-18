@@ -95,9 +95,8 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
   Fuente :
 </p>
 
-## 4. Mapa de Viaje del Cliente
-![Imagen 17-04-25 a las 2 15 p  m](https://github.com/user-attachments/assets/244172bc-45b5-4839-8d17-354227724aaa)
-
+## 4. Mapa de Viaje 
+![Imagen 17-04-25 a las 7 51 p  m](https://github.com/user-attachments/assets/62f5abed-7964-4928-8731-e1ca75ae96ed)
 
 ## 5. Definición Formal del Problema
 ![Imagen 17-04-25 a las 6 56 p  m](https://github.com/user-attachments/assets/ea179933-2ade-4859-a5be-a0cc30f50e4b)
@@ -107,4 +106,5 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 1. Pontificia Universidad Católica del Perú (PUCP). (s.f.). Acidificación de los océanos. https://inte.pucp.edu.pe/noticias-y-eventos/dia-del-sobregiro-planetario/acidificacion-de-los-oceanos/****
 2. UNESCO. (2022). Programas oceánicos de la UNESCO. Programa de las Naciones Unidas para el Medio Ambiente. https://www.unesco.org/sites/default/files/medias/fichiers/2022/06/381648spa.pdf
 3. PNUMA. (2011). Seguimiento a nuestro medio ambiente en transformación: de Río a Río+20 (1992-2012). Programa de las Naciones Unidas para el Medio Ambiente. ISBN: 978-92-807-3339-9 https://sinia.minam.gob.pe/sites/default/files/sinia/archivos/public/docs/2853.pdf
+4. IMARPE (2023). Reporte de acidificación en la costa norte peruana. https://www.gob.pe/institucion/imarpe/buscador?contenido=todos&institucion=imarpe&sheet=1&sort_by=none&term=Reporte de acidificación en la costa norte peruana
  
