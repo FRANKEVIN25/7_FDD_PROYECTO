@@ -96,10 +96,12 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 </p>
 
 ## 4. Mapa de Viaje del Cliente
-*[Espacio para insertar imagen]*
+![Imagen 17-04-25 a las 2 15 p  m](https://github.com/user-attachments/assets/244172bc-45b5-4839-8d17-354227724aaa)
+
 
 ## 5. Definición Formal del Problema
-*[Espacio para insertar imagen]*
+![Imagen 17-04-25 a las 6 56 p  m](https://github.com/user-attachments/assets/ea179933-2ade-4859-a5be-a0cc30f50e4b)
+
 
 ## REFERENCIAS BIBLIOGRÁFICAS
 1. Pontificia Universidad Católica del Perú (PUCP). (s.f.). Acidificación de los océanos. https://inte.pucp.edu.pe/noticias-y-eventos/dia-del-sobregiro-planetario/acidificacion-de-los-oceanos/****
