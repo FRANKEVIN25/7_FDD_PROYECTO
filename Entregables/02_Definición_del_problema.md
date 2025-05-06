@@ -98,7 +98,11 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 ![Imagen 17-04-25 a las 7 51 p  m](https://github.com/user-attachments/assets/62f5abed-7964-4928-8731-e1ca75ae96ed)
 
 ## 5. Definición Formal del Problema
-![Imagen 17-04-25 a las 6 56 p  m](https://github.com/user-attachments/assets/ea179933-2ade-4859-a5be-a0cc30f50e4b)
+
+<p align="center">
+  <img src="../imagenes/Deficion_de_problema/deficion_de_problema.jpg">
+ <p align="center">
+</p>
 
 
 ## REFERENCIAS BIBLIOGRÁFICAS
