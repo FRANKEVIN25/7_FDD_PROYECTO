@@ -17,7 +17,6 @@
 - [🌐 Nuestra Problemática](#-nuestra-problemática)
 - [🌍 Objetivos de Desarrollo Sostenible](#-objetivos-de-desarrollo-sostenible)
 - [📊 Metodología](#-metodología)
-- [🙌 Acerca de Nosotros](#-acerca-de-nosotros)
 - [📑 Referencias](#-referencias)
 
 ---
