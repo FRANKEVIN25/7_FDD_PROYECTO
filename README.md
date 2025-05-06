@@ -60,7 +60,7 @@ Este patrón, sumado a la falta de planificación urbana sostenible, ha comenzad
 
 Si no se adoptan medidas de mitigación o monitoreo y una planificación urbana sostenible Piura podría enfrentar un descenso en el pH  severo con consecuencias sociales, económicas y ecológicas de largo plazo.
 
-#🔴 Puntos de dolor
+🔴 Puntos de dolor
 - El transporte urbano en Piura contamina diariamente con 15 toneladas de CO₂, y no existe una estrategia clara para frenar este crecimiento.
 
 - El aumento del CO₂ en el océano está reduciendo el pH del agua, impidiendo que moluscos y corales puedan sobrevivir.
