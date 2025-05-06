@@ -1,8 +1,6 @@
 <p align="center">
 <h1 align="center">Nuestro grupo</h1>
 
-
-- [🙌 Acerca de Nosotros](#-acerca-de-nosotros)
 # 🙌 Acerca de Nosotros
 
 A continuación, se brindará algunas características de cada integrante del grupo.
