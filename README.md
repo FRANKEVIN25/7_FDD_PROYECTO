@@ -69,17 +69,14 @@ BIBLIOGRAFÍA:
 # 🌍 Objetivos de Desarrollo Sostenible
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ODS%2012-Producción%20y%20Consumo%20Responsables-green" alt="ODS 12">
+  <img src="https://img.shields.io/badge/ODS%2012-Producción%20y%20Consumo%20Responsables-green" alt="ODS 14">
 </div>
 
 ### Objetivo General:
 Desarrollar un prototipo funcional que promueva prácticas de consumo responsable y sostenible, integrando tecnología accesible con principios de diseño centrado en el usuario.
 
-### Objetivos Específicos:
-1. Investigar patrones de consumo actuales en la sociedad peruana para identificar oportunidades de mejora.
-2. Diseñar una solución tecnológica que incentive la optimización de recursos y reducción de desperdicios.
-3. Implementar y validar un prototipo funcional con usuarios reales.
-4. Generar conciencia sobre la importancia de la producción y el consumo responsable mediante nuestra solución.
+### Objetivo Específico:
+14.3 Minimizar y abordar los efectos de la acidificación de los océanos, incluso mediante una mayor cooperación científica a todos los niveles
 
 # 📊 Metodología
 
@@ -179,8 +176,6 @@ Estudiante de Ingeniería Ambiental con interés en sostenibilidad y gestión de
 <p align="center">
   <img src="/api/placeholder/600/400" alt="Imagen del Equipo" width="600">
 </p>
-
-# 📑 Referencias
 
 <div align="center">
   <p>© 2025 Grupo 7 - Fundamentos de Diseño</p>
