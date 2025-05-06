@@ -50,7 +50,7 @@ El impacto económico y social será profundo. Se proyecta una potencial pérdid
 La contaminación adicional proveniente de residuos industriales y domésticos amplifica la vulnerabilidad de estos ecosistemas, creando un escenario complejo donde múltiples presiones amenazan la resiliencia del ecosistema marino peruano.
 
 ### 1.3 A Nivel Regional
-En la ciudad de Piura, la principal fuente de emisión de dióxido de carbono (CO₂) proviene del uso de combustibles fósiles, especialmente del transporte vehicular y de la generación eléctrica mediante gas natural. Se estima que durante las horas punta en avenidas de alto tráfico, contribuyen a una emisión diaria aproximada de 15 toneladas de CO₂ solo por transporte urbano (MGI City Lab Piura, 2022). A nivel general, las proyecciones señalan un preocupante aumento de las emisiones, pasando de 2,000 ktCO₂eq en 2018 a más de 12,000 ktCO₂eq en 2040, lo que implica un crecimiento de 2.8 a 15 toneladas de CO₂ per cápita (MGI City Lab Piura, 2022). Además, se ha calculado que el 69.52% de la huella de carbono institucional en la región norte proviene del consumo de energía importada, evidenciando la gran dependencia de fuentes no renovables (ISA REP, 2023). Estos datos demuestran que Piura ya enfrenta una situación significativa de contaminación por CO₂, con un panorama ambiental que, de no mitigarse, podría agravarse considerablemente en las próximas décadas.
+En la ciudad de Piura, la principal fuente de emisión de dióxido de carbono (CO₂) proviene del uso de combustibles fósiles, especialmente del transporte vehicular y de la generación eléctrica mediante gas natural. Se estima que durante las horas punta en avenidas de alto tráfico, contribuyen a una emisión diaria aproximada de 15 toneladas de CO₂ solo por transporte urbano. A nivel general, las proyecciones señalan un preocupante aumento de las emisiones, pasando de 2,000 ktCO₂eq en 2018 a más de 12,000 ktCO₂eq en 2040, lo que implica un crecimiento de 2.8 a 15 toneladas de CO₂ per cápita (MGI City Lab Piura, 2022). Además, se ha calculado que el 69.52% de la huella de carbono institucional en la región norte proviene del consumo de energía importada, evidenciando la gran dependencia de fuentes no renovables (ISA REP, 2023). Estos datos demuestran que Piura ya enfrenta una situación significativa de contaminación por CO₂, con un panorama ambiental que, de no mitigarse, podría agravarse considerablemente en las próximas décadas.
 
 <p align="center"><strong>Gráfica 2</strong></p>
 <p align="center">
@@ -67,13 +67,13 @@ En cuanto a los valores específicos de pH, se considera adecuado un rango de 7.
 <p align="center">
   <img src="../imagenes/Deficion_de_problema/tabla.jpg" alt="Tabla LEAP Piura" width="500">
 </p>
-<p align="center"><em>Fuente: Fuente: Elaboración propia, Alva 2024.</em></p>
+<p align="center"><em>Fuente: Elaboración propia, Alva 2024.</em></p>
 
 <p align="center"><strong>Tabla 2</strong></p>
 <p align="center">
   <img src="../imagenes/Deficion_de_problema/tabla2.jpg" alt="Tabla LEAP Piura" width="500">
 </p>
-<p align="center"><em>Fuente: Fuente: Elaboración propia, Robledo 2025.</em></p>
+<p align="center"><em>Fuente: Elaboración propia, Robledo 2025.</em></p>
 
 Según el "Diagnóstico Socioeconómico y Ambiental de la Zona Marino Costera de la Provincia de Paita", elaborado por el Gobierno Regional Piura, la playa El Toril, ubicada en la bahía de Paita, es una de las más contaminadas de la región. Esta playa, donde se realiza pesca artesanal, presenta niveles de contaminación que la hacen no apta para bañistas. Aunque no se dispone de datos específicos sobre el pH del agua en esta área, la alta carga de contaminantes podría estar contribuyendo a procesos de acidificación, afectando tanto a los ecosistemas marinos como a las actividades pesqueras locales.
 
@@ -107,4 +107,9 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 2. UNESCO. (2022). Programas oceánicos de la UNESCO. Programa de las Naciones Unidas para el Medio Ambiente. https://www.unesco.org/sites/default/files/medias/fichiers/2022/06/381648spa.pdf
 3. PNUMA. (2011). Seguimiento a nuestro medio ambiente en transformación: de Río a Río+20 (1992-2012). Programa de las Naciones Unidas para el Medio Ambiente. ISBN: 978-92-807-3339-9 https://sinia.minam.gob.pe/sites/default/files/sinia/archivos/public/docs/2853.pdf
 4. IMARPE (2023). Reporte de acidificación en la costa norte peruana. https://www.gob.pe/institucion/imarpe/buscador?contenido=todos&institucion=imarpe&sheet=1&sort_by=none&term=Reporte de acidificación en la costa norte peruana
- 
+5. MGI City Lab Piura. (2022). Informe resumen del perfil de la ciudad: City Lab Piura. Morgenstadt Global Smart Cities Initiative. https://mgi-iki.com/wp-content/uploads/2022/03/MGI-City-Lab-Piura-Summary-Report-ES_WEB-2.pdf
+6. ISA REP. (2024). Informe final: Huella de carbono corporativa 2023. https://www.isarep.com.pe/DocumentosISAREP/Reporte%20Sostenibilidad/Informe%20Final%20-%20HC%202023%20REP.pdf
+7. Ministerio del Ambiente. (2017). Decreto Supremo N.º 004-2017-MINAM: Aprueban Estándares de Calidad Ambiental (ECA) para Agua y establecen disposiciones complementarias. https://www.minam.gob.pe/wp-content/uploads/2017/06/DS-004-2017-MINAM.pdf
+8. Gobierno Regional Piura. (2014). Diagnóstico socioeconómico y ambiental de la zona marino costera de la provincia de Paita. Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente. https://siar.regionpiura.gob.pe/documentos/normativa/1957.pdf
+
+
