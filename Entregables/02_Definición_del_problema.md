@@ -92,7 +92,6 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 <p align="center">
   <img src="../imagenes/Deficion_de_problema/ishikawa.jpg">
  <p align="center">
-  Fuente :
 </p>
 
 ## 4. Mapa de Viaje 
