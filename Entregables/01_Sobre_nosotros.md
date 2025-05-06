@@ -87,7 +87,7 @@ Estudiante de Ingeniería Ambiental con interés en sostenibilidad y gestión de
 
 ## 🤝 Imagen del Equipo  
 <p align="center">
-  <img src="/api/placeholder/600/400" alt="Imagen del Equipo" width="600">
+  <img src="Nosotros/foto_grupal.jpg" alt="foto_grupal.jpg" width="600">
 </p>
 
 
