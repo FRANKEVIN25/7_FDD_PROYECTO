@@ -11,7 +11,6 @@
 
 # 📖 Tabla de contenidos
 - [🎯 Objetivo del Archivo](#-objetivo-del-archivo)
-- [🌟 ¿Quiénes Somos?](#-quiénes-somos)
 - [🏆 Nuestra Misión](#-nuestra-misión)
 - [🚀 Nuestra Visión](#-nuestra-visión)
 - [🌐 Nuestra Problemática](#-nuestra-problemática)
