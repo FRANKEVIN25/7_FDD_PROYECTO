@@ -104,5 +104,5 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 6. ISA REP. (2024). Informe final: Huella de carbono corporativa 2023. https://www.isarep.com.pe/DocumentosISAREP/Reporte%20Sostenibilidad/Informe%20Final%20-%20HC%202023%20REP.pdf
 7. Ministerio del Ambiente. (2017). Decreto Supremo N.º 004-2017-MINAM: Aprueban Estándares de Calidad Ambiental (ECA) para Agua y establecen disposiciones complementarias. https://www.minam.gob.pe/wp-content/uploads/2017/06/DS-004-2017-MINAM.pdf
 8. Gobierno Regional Piura. (2014). Diagnóstico socioeconómico y ambiental de la zona marino costera de la provincia de Paita. Gerencia Regional de Recursos Naturales y Gestión del Medio Ambiente. https://siar.regionpiura.gob.pe/documentos/normativa/1957.pdf
-
-
+9. Perú Sostenible. (2023). Hojas de ruta sectoriales: Informe pesca. https://perusostenible.org/wp-content/uploads/2023/06/Hojas-de-Ruta-Sectoriales-informe-pesca.pdf
+10. Uribe Gómez, O. (2022). El impacto de la acidificación del océano en la economía global. Repositorio Digital CIDE. http://hdl.handle.net/11651/5335 ￼
