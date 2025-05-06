@@ -60,6 +60,15 @@ Este patrón, sumado a la falta de planificación urbana sostenible, ha comenzad
 
 Si no se adoptan medidas de mitigación o monitoreo y una planificación urbana sostenible Piura podría enfrentar un descenso en el pH  severo con consecuencias sociales, económicas y ecológicas de largo plazo.
 
+#🔴 Puntos de dolor
+- El transporte urbano en Piura contamina diariamente con 15 toneladas de CO₂, y no existe una estrategia clara para frenar este crecimiento.
+
+- El aumento del CO₂ en el océano está reduciendo el pH del agua, impidiendo que moluscos y corales puedan sobrevivir.
+
+- Zonas como la bahía de Paita están tan contaminadas que la pesca artesanal y el turismo ya no son actividades sostenibles.
+
+- La ciudad sigue creciendo sin políticas ambientales efectivas, y cada año se agrava el daño ecológico sin que se apliquen soluciones reales.
+
 BIBLIOGRAFÍA:
 1.	Rosales, M., & Castro, A. (2022). Ambiente y sociedad: los desafíos de la biodiversidad en el mundo y en el Perú al 2050. En A. Castro & M. I. Merino-Gómez (Eds.), Desafíos y perspectivas de la situación ambiental en el Perú: En el marco de la conmemoración de los 200 años de vida republicana (pp. 14–45). Instituto de la Naturaleza, Tierra y Energía (INTE-PUCP). https://doi.org/10.18800/978-9972-674-30-3.001
 2. MGI City Lab Piura. (2022). Informe resumen del perfil de la ciudad: City Lab Piura. Morgenstadt Global Smart Cities Initiative. https://mgi-iki.com/wp-content/uploads/2022/03/MGI-City-Lab-Piura-Summary-Report-ES_WEB-2.pdf
