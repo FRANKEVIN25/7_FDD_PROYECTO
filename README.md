@@ -76,7 +76,7 @@ BIBLIOGRAFÍA:
 # 🌍 Objetivos de Desarrollo Sostenible
 
 <div align="center">
-  <img src="https://img.shields.io/badge/ODS%2012-Producción%20y%20Consumo%20Responsables-green" alt="ODS 14">
+  <img src="https://img.shields.io/badge/ODS%2014-Vida%20submarina-blue" alt="ODS 14">
 </div>
 
 ### Objetivo General:
