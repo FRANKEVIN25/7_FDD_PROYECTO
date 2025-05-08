@@ -80,7 +80,9 @@ La pesca extractiva e industrial ha sido históricamente una actividad clave, au
 </p>
 
 ## 4. Mapa de Viaje 
-![Imagen 17-04-25 a las 7 51 p  m](https://github.com/user-attachments/assets/62f5abed-7964-4928-8731-e1ca75ae96ed)
+
+![PHOTO-2025-05-08-00-14-22](https://github.com/user-attachments/assets/003654b2-aa78-47ff-b80d-35f4f7fdfc8d)
+
 
 ## 5. Definición Formal del Problema
 
