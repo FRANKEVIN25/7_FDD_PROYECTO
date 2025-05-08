@@ -67,7 +67,9 @@ Según el Diagnóstico Socioeconómico y Ambiental de la Zona Marino Costera de 
 ### 1.4 Acidificación en el callao
 
 Desde 2020, el Instituto del Mar del Perú (IMARPE) ha fortalecido sus capacidades técnicas para medir la acidificación oceánica, gracias al apoyo del proyecto RLA 7025 del Organismo Internacional de Energía Atómica (OIEA). Este proyecto permitió la implementación de estaciones de monitoreo frente al Callao (12°S), siguiendo los estándares internacionales del indicador 14.3.1 de los Objetivos de Desarrollo Sostenible (ODS), que mide la acidez media del mar (pH).(10)
+
 En enero de 2023, Perú reportó por primera vez este indicador a la Comisión Oceanográfica Intergubernamental (COI) de la UNESCO, utilizando datos obtenidos de las estaciones frente al Callao. Este esfuerzo se ha mantenido, y en enero de 2024 se realizó un segundo reporte, consolidando la importancia de esta zona como punto clave para el estudio de la acidificación en el país.(10)
+
 A nivel nacional, se ha observado una disminución gradual del pH en las aguas marinas. En 1985, el pH promedio era de 8,11, mientras que en 2021 se registró un pH de 8,05, lo que representa una reducción del 0,7%. (11)
 Específicamente en la región del Callao, estudios realizados por IMARPE entre abril y junio de 2017 reportaron que el pH en la superficie del mar osciló entre 7,60 y 7,86, valores que indican una tendencia hacia la acidificación en esta zona costera. (11)
 
