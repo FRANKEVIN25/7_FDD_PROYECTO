@@ -1,5 +1,5 @@
-<h2>Imagen de la Caja Negra</h2>
+# Imagen de la Caja Negra
 
-<p align="center">
-  <img src="imagenes/Caja_negra/Control.png" alt="Caja Negra" width="500"/>
-</p>
+Aquí puedes ver la imagen de mi Caja Negra:
+
+![Caja Negra](../imagenes/Caja_negra/Control.png)
