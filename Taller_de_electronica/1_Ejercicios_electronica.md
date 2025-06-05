@@ -33,13 +33,7 @@
 
 En este sistema se busca controlar la inversión cíclica de la dirección de giro de un motorreductor DC GA12-N20. Esto se dará por la interacción entre el Arduino UNO, que será el control lógico, y un módulo L298N, que será el control de potencia y gestionará la polaridad de la corriente del motor.
 
-**📷 Foto de materiales**  
-*(Agregar imagen aquí)*
-
-El Arduino envía señales a los pines IN1 y IN2 del L298N. Así permitirá girar en un sentido, ya sea horario o antihorario, durante 5 segundos con los comandos. Si es en sentido horario IN1 se activa e IN2 se desactiva, y viceversa si es en sentido antihorario. Para que el motor se detenga durante un segundo, ambos pines deben desactivarse.
-
-**📷 Foto del sistema terminado**  
-*(Agregar imagen aquí)*  
+El Arduino envía señales a los pines IN1 y IN2 del L298N. Así permitirá girar en un sentido, ya sea horario o antihorario, durante 5 segundos con los comandos. Si es en sentido horario IN1 se activa e IN2 se desactiva, y viceversa si es en sentido antihorario. Para que el motor se detenga durante un segundo, ambos pines deben desactivarse.  
 
 [Ver video](../Videos/EJERCICIO1.mp4)
 
@@ -51,29 +45,19 @@ El Arduino envía señales a los pines IN1 y IN2 del L298N. Así permitirá gira
 
 A diferencia del sistema anterior, este también busca controlar la **velocidad** del motor GA12-N20. El L298N actuará como puente de potencia y el Arduino enviará señales lógicas a los pines IN1 e IN2, así como una señal PWM al pin ENA para ajustar la velocidad.
 
-**📷 Foto de materiales**  
-*(Agregar imagen aquí)*
-
 Este funcionamiento será alternante: el motor gira en un sentido por 5 segundos, se detiene, y luego gira en sentido contrario por otros 5 segundos. La fuente de alimentación externa debe estar entre 6V y 12V. Este sistema se aplica en áreas como la biomédica, por su flexibilidad y precisión.
 
-**📷 Foto del sistema terminado**  
-*(Agregar imagen aquí)*  
-🎥 *(Agregar video aquí)*
+[Ver video](../Videos/EJERCICIO2.mp4)
 
 ---
 
 ### 3. Control de Velocidad del Motor GA12-N20 con Potenciómetro y Arduino
 
 Este sistema permite el ajuste manual de la velocidad del motor GA12-N20 usando un potenciómetro. El potenciómetro actúa como divisor de voltaje; su señal analógica es leída por el Arduino.
-
-**📷 Foto de materiales**  
-*(Agregar imagen aquí)*
-
 El Arduino mapea la lectura del potenciómetro a una señal PWM que regula la potencia que recibe el motor, manteniendo constante el sentido de giro. Necesita una fuente de 6V a 12V.
 
-**📷 Foto del sistema terminado**  
-*(Agregar imagen aquí)*  
-🎥 *(Agregar video aquí)*
+
+[Ver video](../Videos/EJERCICIO3.mp4)
 
 ---
 
