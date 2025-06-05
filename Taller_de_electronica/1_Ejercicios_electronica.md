@@ -40,7 +40,8 @@ El Arduino envía señales a los pines IN1 y IN2 del L298N. Así permitirá gira
 
 **📷 Foto del sistema terminado**  
 *(Agregar imagen aquí)*  
-🎥 *(Agregar video aquí)*
+
+[Ver video](../Videos/EJERCICIO1.mp4)
 
 > Nota: El pin ENA del L298N siempre debe permanecer conectado a 5V para permitir el funcionamiento sin control de velocidad. Se requiere fuente externa de alimentación para el motor.
 
