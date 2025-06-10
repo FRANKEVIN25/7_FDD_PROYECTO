@@ -2,10 +2,7 @@
 
 ### Índice
 * [Caja_Negra](#Caja_Negra)
-   * [Descripción](#Entradas_y_salidas)
-
-## Caja Negra
-<img width="799" alt="Captura de pantalla 2025-06-05 a la(s) 1 02 46 a  m" src="https://github.com/user-attachments/assets/1ccc536f-a93e-4644-88a1-7a8103d07b0a" />
+* [Descripción](#Entradas_y_salidas)
 
 ## Caja Negra (antigua)
 <img width="886" alt="Captura de pantalla 2025-06-05 a la(s) 1 21 49 a  m" src="https://github.com/user-attachments/assets/167e4890-c373-4462-8e19-ec70af7ed615" />
