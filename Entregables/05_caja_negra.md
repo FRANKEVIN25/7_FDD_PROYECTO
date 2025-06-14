@@ -7,6 +7,10 @@
 ## Caja Negra (antigua)
 <img width="886" alt="Captura de pantalla 2025-06-05 a la(s) 1 21 49 a  m" src="https://github.com/user-attachments/assets/167e4890-c373-4462-8e19-ec70af7ed615" />
 
+## Caja Negra
+<img width="938" alt="Captura de pantalla 2025-06-13 a la(s) 11 53 15 p  m" src="https://github.com/user-attachments/assets/57fc0b74-cefb-4c89-be17-a94b84c8ce95" />
+
+
 
 ## Entradas y Salidas
 ### Entradas
