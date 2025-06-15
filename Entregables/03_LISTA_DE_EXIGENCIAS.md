@@ -54,16 +54,4 @@
 - Los requisitos "D" serán implementados según disponibilidad de recursos y tiempo
 - Esta lista de exigencias está sujeta a revisiones según el avance del proyecto
 
----
-
-## Firmas de Aprobación:
-
-|                    |                      |                |                        |
-|--------------------|----------------------|----------------|------------------------|
-| __________________ | ____________________ | ______________ | ______________________ |
-| Jefe de Proyecto   | Supervisor Técnico   | Cliente        | Fecha de Aprobación    |
-
----
-
-*Documento generado el 14 de junio de 2025*  
 *Universidad Peruana Cayetano Heredia - Facultad de Ciencias e Ingeniería*
