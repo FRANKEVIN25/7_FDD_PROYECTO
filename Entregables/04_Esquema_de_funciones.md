@@ -1,4 +1,4 @@
-<h2 align="center">ESQUEMA DE FUNCIONES/h2>
+<h2 align="center">ESQUEMA DE FUNCIONES </h2>
 
 ---
 
