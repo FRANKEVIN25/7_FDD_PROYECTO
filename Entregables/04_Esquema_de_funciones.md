@@ -1,4 +1,4 @@
-<h2 align="center">🎯 Esquema de Funciones del Sistema</h2>
+<h2 align="center">ESQUEMA DE FUNCIONES/h2>
 
 ---
 
