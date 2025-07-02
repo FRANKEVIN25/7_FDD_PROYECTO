@@ -5,9 +5,7 @@
 * [Descripción](#Entradas_y_salidas)
 
 ## Caja Negra
-<img width="938" alt="Captura de pantalla 2025-06-13 a la(s) 11 53 15 p  m" src="https://github.com/user-attachments/assets/57fc0b74-cefb-4c89-be17-a94b84c8ce95" />
-
-
+<img width="860" alt="Captura de pantalla 2025-07-02 a la(s) 6 44 41 p  m" src="https://github.com/user-attachments/assets/ea1e8610-00c0-4151-b61f-ec5f613fbd21" />
 
 ## Entradas y Salidas
 ### Entradas
