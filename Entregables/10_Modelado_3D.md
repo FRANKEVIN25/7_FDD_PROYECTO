@@ -7,11 +7,12 @@
 
 ## Modelo del prototipo
 
-<img width="834" alt="Captura de pantalla 2025-06-25 a la(s) 8 48 07 p  m" src="https://github.com/user-attachments/assets/9b023ae9-1c6e-4531-bac9-09b895261831" />
+![image](https://github.com/user-attachments/assets/8fa7c4ee-b123-41ae-b1d1-a7d8cac14877)
 
-<img width="834" alt="Captura de pantalla 2025-06-25 a la(s) 8 49 26 p  m" src="https://github.com/user-attachments/assets/7dfe91c3-0bce-40a3-9498-4e6d138adb8b" />
+![image](https://github.com/user-attachments/assets/811baa5b-7a88-4540-9718-fdc630c82872)
 
-<img width="834" alt="Captura de pantalla 2025-06-25 a la(s) 9 15 06 p  m" src="https://github.com/user-attachments/assets/89c00f65-bb5a-43c6-bd36-e9351657ecc7" />
+![image](https://github.com/user-attachments/assets/ffa2cb6c-42d3-4199-aa87-c951817ccfc4)
+
 
 <img width="834" alt="Captura de pantalla 2025-06-25 a la(s) 8 50 16 p  m" src="https://github.com/user-attachments/assets/947deba3-0eec-4039-9b1a-56689311bec8" />
 
