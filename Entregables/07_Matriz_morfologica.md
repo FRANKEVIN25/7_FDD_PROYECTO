@@ -6,7 +6,8 @@
 * [Conclusiones](#conclusiones)
 
 # Tabla morfológica
-<img width="780" alt="Captura de pantalla 2025-07-02 a la(s) 6 46 44 p  m" src="https://github.com/user-attachments/assets/1b240522-b330-4a12-8b75-bef18a5d3501" />
+
+![Captura de pantalla 2025-07-03 000536](https://github.com/user-attachments/assets/a6f45690-abdb-44e2-a9a7-8012e419670a)
 
 # Tabla de valoración
 <img width="1426" alt="Captura de pantalla 2025-06-05 a la(s) 1 05 18 a  m" src="https://github.com/user-attachments/assets/086bf316-9c5c-4e44-81c6-2d2f8181d0e2" />
