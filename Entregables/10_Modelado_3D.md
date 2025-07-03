@@ -2,7 +2,8 @@
 
 ## Tabla de componentes
 
-<img width="606" alt="Captura de pantalla 2025-06-25 a la(s) 9 35 59 p  m" src="https://github.com/user-attachments/assets/8924215e-78e9-436b-80c0-3a8df9314898" />
+![image](https://github.com/user-attachments/assets/d192713e-3720-4d1a-a91f-68668cd42294)
+
 
 ## Modelo del prototipo
 
