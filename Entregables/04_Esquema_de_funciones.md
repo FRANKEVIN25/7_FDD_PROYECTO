@@ -1,7 +1,5 @@
 <h2 align="center">ESQUEMA DE FUNCIONES </h2>
 
----
+![image](https://github.com/user-attachments/assets/d14d97ac-9254-403c-bcc9-a9b24733ebe1)
 
-<p align="center">
-  <img src="https://github.com/user-attachments/assets/ae020659-a13d-4167-84e2-18af81cb0e17" alt="Esquema de funciones del sistema" width="700"/>
 </p>
