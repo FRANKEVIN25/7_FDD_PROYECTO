@@ -20,8 +20,8 @@
 **Elaborado por:**
 - Nathalia Silvana Robledo Cerna
 - Frank Jauregui Bendezu
-- Jonathan
-- Antony
+- Jonathan Juan Suasnabar Panez
+- Antony Geampier Zuñiga Vasquez
 
 ---
 
